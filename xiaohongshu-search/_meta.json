@@ -1,0 +1,17 @@
+{
+  "name": "xiaohongshu-search",
+  "version": "1.0.0",
+  "description": "小红书搜索与内容分析Skill",
+  "author": "OpenClaw",
+  "createdAt": "2026-03-12",
+  "dependencies": ["mcporter"],
+  "requires": {
+    "bins": ["mcporter"],
+    "mcpServers": ["Xiaohongshu"]
+  },
+  "triggers": [
+    "小红书搜索",
+    "小红书调研",
+    "小红书总结"
+  ]
+}
